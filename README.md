@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hi, I'm Codingcodercodes!
 
-<!--
-**Codingcodercodes/Codingcodercodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm passionate about software development and open source. Here you'll find my projects, experiments, and contributions.
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- 💻 I love coding in multiple languages and exploring new tech.
+- 🌱 Always learning and growing as a developer.
+- 🤝 Open to collaboration and new ideas.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+- Languages: Python, JavaScript, TypeScript, Java, C++
+- Frameworks: React, Node.js, Express, Django
+- Tools: Git, Docker, VS Code
+
+## 📊 GitHub Stats
+![Codingcodercodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codingcodercodes&show_icons=true&theme=radical)
+
+## 📫 How to Reach Me
+- Email: [your-email@example.com](mailto:pcharmireddy@gmail.com)
+- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/charmi-reddy-p-b2aaa2294/)
+
+---
+
+Thanks for visiting my profile! ⭐
