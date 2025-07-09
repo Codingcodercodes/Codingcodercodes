@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Codingcodercodes!
+# 👋 Hi, I'm Charmi Reddy!
 
 Welcome to my GitHub profile! I'm passionate about software development and open source. Here you'll find my projects, experiments, and contributions.
 
