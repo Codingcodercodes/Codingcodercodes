@@ -16,8 +16,8 @@ Welcome to my GitHub profile! I'm passionate about software development and open
 ![Codingcodercodes's GitHub stats](https://github-readme-stats.vercel.app/api?username=Codingcodercodes&show_icons=true&theme=radical)
 
 ## 📫 How to Reach Me
-- Email: [your-email@example.com](mailto:pcharmireddy@gmail.com)
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/charmi-reddy-p-b2aaa2294/)
+- Email: [pcharmireddy@gmail.com](mailto:pcharmireddy@gmail.com)
+- LinkedIn: [https://www.linkedin.com/in/charmi-reddy-p-b2aaa2294/](https://www.linkedin.com/in/charmi-reddy-p-b2aaa2294/)
 
 ---
 
