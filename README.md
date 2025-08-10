@@ -8,8 +8,7 @@ Welcome to my GitHub profile! I'm passionate about software development and open
 - 🤝 Open to collaboration and new ideas.
 
 ## 🛠 Tech Stack
-- Languages: Python, JavaScript, TypeScript, Java, C++
-- Frameworks: React, Node.js, Express, Django
+- Languages: Python, Java, C
 - Tools: Git, Docker, VS Code
 
 ## 📫 How to Reach Me
